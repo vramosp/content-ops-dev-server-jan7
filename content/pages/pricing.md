@@ -3,13 +3,13 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Pricing
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Working nicely
     plans:
       - title: Developers
         price: Free
