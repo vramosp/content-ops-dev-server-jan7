@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Hello world
+      text: Hello world - this is working with the dev server what?!!!
       color: text-dark
       type: TitleBlock
     subtitle: This is a subtitle
@@ -62,7 +62,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 300K
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
